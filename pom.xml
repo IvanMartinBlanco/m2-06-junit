@@ -11,6 +11,11 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven.compiler.source>16</maven.compiler.source>
 		<maven.compiler.target>16</maven.compiler.target>
+		
+		  <sonar.projectKey>IvanMartinBlanco_m2-06-junit</sonar.projectKey>
+  <sonar.organization>ivanmartinblanco</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  <sonar.login>47759337c42ef6a8a787db0ec6ea27f1e6492907</sonar.login>
 	</properties>
 	<dependencies>
 
