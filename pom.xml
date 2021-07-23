@@ -4,8 +4,7 @@
   <artifactId>m2-06-junit-events-app</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   
-  	  
-	<name>JUnit Events App</name>
+<name>JUnit Events App</name>
 	<description>Project for JUnit and Mockit testing purposes</description>
 	
   	<properties>
@@ -172,5 +171,7 @@
 	
 	
 	
+	
+
 	
 </project>
