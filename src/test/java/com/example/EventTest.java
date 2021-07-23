@@ -83,7 +83,8 @@ class EventTest {
 
 	@Test
 	void testAddAttendees() {
-		
+		event.addAttendees(null);
+		assertEquals(0, event.getAttendees().size());
 	}
 
 	@Test
